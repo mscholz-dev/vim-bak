@@ -8,4 +8,3 @@ cd ${now}
 cp ~/.vimrc .
 cp ~/.viminfo .
 cp ~/.vim . -r
-rm -r ./**/.git
